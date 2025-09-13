@@ -74,3 +74,7 @@ Dependencies are listed in `requirements.txt` and include:
 
 This project is released under the MIT License. The data is synthetic and free to use for educational and demonstration purposes.
 
+
+## Additional Notes
+
+This project is designed as a portfolio piece showcasing data analysis and predictive modeling skills. You can extend the synthetic dataset, customize the notebook, or adapt the analysis to fit specific domains or business scenarios. Contributions and suggestions are welcome!
