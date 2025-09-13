@@ -1,0 +1,301 @@
+ProjectID,TaskID,TaskName,AssignedTo,StartDate,EndDate,DurationDays,Budget,ActualCost,TaskStatus,Priority,CompletionPercentage,OverBudget
+Project_6,T0001,Marketing Review,Patricia Taylor,2024-05-27,2024-09-06,102,16259.32,18330.99,Completed,Medium,100,1
+Project_4,T0002,Financial Review,Michael Davis,2023-06-02,2023-07-19,47,18838.9,14180.03,In Progress,Low,44,0
+Project_3,T0003,Collaborative Optimization,Charles Scott,2024-10-27,2024-12-04,38,10521.86,14338.25,Completed,Medium,100,1
+Project_8,T0004,Strategic Implementation,Lisa Green,2024-09-17,2024-12-29,103,15396.88,18922.09,Cancelled,Medium,0,1
+Project_5,T0005,Development Analysis,Thomas King,2024-06-05,2024-07-27,52,3174.4,3776.28,Completed,Medium,100,1
+Project_2,T0006,Operational Evaluation,David Walker,2023-12-06,2024-03-29,114,15268.4,16442.82,In Progress,Medium,70,1
+Project_6,T0007,Collaborative Assessment,Joseph Allen,2023-03-30,2023-04-05,6,12225.47,10318.78,Not Started,Medium,0,0
+Project_4,T0008,Collaborative Implementation,Thomas King,2024-02-17,2024-03-10,22,9381.45,9253.84,On Hold,High,18,0
+Project_2,T0009,Innovative Integration,Jennifer Lewis,2023-07-17,2023-08-02,16,12158.59,12171.4,On Hold,High,25,1
+Project_4,T0010,Development Projection,Joseph Allen,2024-08-06,2024-10-27,82,4389.37,3742.0,Completed,Medium,100,0
+Project_1,T0011,Customer Analysis,Maria Garcia,2024-11-05,2025-01-31,87,19729.59,26078.35,On Hold,High,47,1
+Project_7,T0012,Customer Review,Michael Davis,2024-03-12,2024-03-20,8,10246.45,11233.7,Completed,Medium,100,1
+Project_5,T0013,Analytical Implementation,Elizabeth Clark,2023-06-15,2023-09-05,82,6601.99,7625.07,In Progress,Medium,49,1
+Project_3,T0014,Analytical Integration,Elizabeth Clark,2024-11-21,2025-01-06,46,18881.02,14052.2,Completed,Medium,100,0
+Project_7,T0015,Operational Implementation,Charles Scott,2023-03-09,2023-03-13,4,12423.24,11654.43,Completed,Low,100,0
+Project_1,T0016,Collaborative Evaluation,James Lee,2023-07-09,2023-08-27,49,13012.65,11729.31,Completed,Medium,100,0
+Project_3,T0017,Marketing Review,Thomas King,2024-09-27,2024-12-18,82,1597.06,1770.78,In Progress,Medium,13,1
+Project_1,T0018,Financial Projection,William Brown,2023-06-18,2023-07-27,39,16162.46,22023.21,On Hold,Medium,15,1
+Project_4,T0019,Financial Design,Patricia Taylor,2024-05-15,2024-07-23,69,3322.21,2754.64,Completed,Medium,100,0
+Project_3,T0020,Collaborative Projection,Robert Martin,2023-02-22,2023-03-26,32,16809.58,12664.95,Not Started,High,0,0
+Project_2,T0021,Collaborative Analysis,Sarah Young,2024-04-18,2024-05-16,28,15873.72,16072.3,Not Started,Medium,0,1
+Project_8,T0022,Collaborative Planning,Elizabeth Clark,2024-10-16,2025-01-18,94,19010.04,18845.0,Not Started,Medium,0,0
+Project_8,T0023,Marketing Analysis,Susan Hall,2023-10-31,2023-11-27,27,4305.96,5982.74,Completed,High,100,1
+Project_2,T0024,Analytical Projection,Sarah Young,2023-01-02,2023-03-14,71,1975.64,2129.59,Completed,Low,100,1
+Project_7,T0025,Analytical Planning,Lisa Green,2024-12-01,2024-12-14,13,4367.22,3687.22,Completed,Medium,100,0
+Project_5,T0026,Customer Review,Alex Johnson,2024-11-22,2025-02-11,81,13971.62,14043.08,Completed,Low,100,1
+Project_8,T0027,Marketing Planning,Robert Martin,2023-04-08,2023-08-05,119,10828.98,9149.76,Completed,Medium,100,0
+Project_4,T0028,Collaborative Assessment,Robert Martin,2023-01-06,2023-02-23,48,2880.89,3771.61,Completed,Low,100,1
+Project_8,T0029,Financial Integration,David Walker,2023-02-06,2023-04-25,78,7995.39,6559.04,Completed,Medium,100,0
+Project_5,T0030,Innovative Evaluation,John Rodriguez,2023-06-01,2023-09-29,120,10518.08,9879.53,On Hold,Medium,80,0
+Project_1,T0031,Innovative Assessment,John Rodriguez,2024-01-30,2024-04-28,89,17984.03,19661.14,In Progress,Critical,77,1
+Project_8,T0032,Technical Review,Linda Smith,2024-02-05,2024-03-19,43,2426.33,3391.79,Completed,Medium,100,1
+Project_6,T0033,Financial Design,Michael Davis,2023-05-04,2023-07-15,72,6765.93,6104.54,In Progress,High,12,0
+Project_7,T0034,Innovative Integration,Elizabeth Clark,2023-10-21,2023-12-04,44,10168.53,7377.08,In Progress,Medium,41,0
+Project_6,T0035,Customer Analysis,Lisa Green,2023-07-14,2023-08-28,45,11707.99,10224.08,In Progress,Low,54,0
+Project_8,T0036,Financial Planning,James Lee,2023-05-02,2023-06-02,31,6023.86,6025.46,Completed,Medium,100,1
+Project_4,T0037,Analytical Planning,David Walker,2024-10-05,2024-11-07,33,16569.26,21099.58,In Progress,Medium,10,1
+Project_2,T0038,Financial Implementation,Lisa Green,2024-05-06,2024-08-17,103,5789.22,5512.06,Completed,Medium,100,0
+Project_7,T0039,Collaborative Implementation,Sarah Young,2023-12-20,2024-02-24,66,15397.69,18655.53,In Progress,Low,48,1
+Project_5,T0040,Technical Review,Charles Scott,2023-09-03,2023-10-26,53,6269.78,6624.15,Not Started,Low,0,1
+Project_1,T0041,Development Optimization,William Brown,2023-06-16,2023-07-05,19,10267.1,8215.02,In Progress,Medium,25,0
+Project_4,T0042,Marketing Optimization,Elizabeth Clark,2023-08-03,2023-09-02,30,6863.17,7433.86,On Hold,Medium,68,1
+Project_2,T0043,Strategic Evaluation,Thomas King,2024-07-24,2024-08-19,26,4827.4,3530.76,Completed,Low,100,0
+Project_3,T0044,Marketing Planning,Jennifer Lewis,2023-06-09,2023-09-19,102,14721.11,15774.66,In Progress,Medium,87,1
+Project_7,T0045,Development Optimization,William Brown,2024-04-12,2024-07-13,92,6525.67,5059.12,In Progress,Low,43,0
+Project_6,T0046,Strategic Analysis,Michael Davis,2023-12-22,2024-03-25,94,15558.34,13194.43,In Progress,Medium,48,0
+Project_8,T0047,Innovative Analysis,Sarah Young,2023-05-24,2023-08-28,96,8103.19,9805.49,Completed,Medium,100,1
+Project_8,T0048,Strategic Evaluation,Charles Scott,2024-08-12,2024-09-17,36,13777.19,12094.58,Completed,Medium,100,0
+Project_1,T0049,Operational Projection,Linda Smith,2023-07-20,2023-11-09,112,5223.45,6928.07,Completed,Low,100,1
+Project_3,T0050,Financial Optimization,Lisa Green,2024-02-28,2024-05-15,77,9317.75,7714.2,Completed,Medium,100,0
+Project_1,T0051,Collaborative Optimization,Karen Wright,2023-01-19,2023-05-01,102,15672.19,21103.16,Completed,Medium,100,1
+Project_4,T0052,Financial Design,Karen Wright,2024-01-18,2024-04-28,101,5150.46,4256.57,Completed,Low,100,0
+Project_2,T0053,Financial Projection,Barbara Hernandez,2024-10-20,2025-02-17,120,19908.7,20886.0,Completed,Medium,100,1
+Project_6,T0054,Technical Analysis,Karen Wright,2023-02-04,2023-05-05,90,7337.37,6614.91,Completed,Low,100,0
+Project_6,T0055,Operational Assessment,William Brown,2023-07-16,2023-10-07,83,4677.77,4638.81,In Progress,Medium,47,0
+Project_1,T0056,Operational Planning,William Brown,2024-08-06,2024-10-11,66,16425.21,14092.37,In Progress,Medium,40,0
+Project_8,T0057,Analytical Analysis,Patricia Taylor,2024-05-06,2024-08-23,109,2500.55,2073.47,Completed,Low,100,0
+Project_7,T0058,Analytical Design,David Walker,2024-05-15,2024-07-10,56,17806.12,13645.99,Completed,Medium,100,0
+Project_2,T0059,Customer Optimization,Alex Johnson,2024-08-19,2024-11-07,80,5127.51,5621.54,On Hold,Medium,82,1
+Project_1,T0060,Strategic Optimization,Alex Johnson,2023-07-28,2023-08-23,26,15445.67,18292.79,Completed,Medium,100,1
+Project_1,T0061,Customer Implementation,Sarah Young,2024-04-14,2024-07-10,87,15465.84,16439.19,Completed,Low,100,1
+Project_1,T0062,Innovative Assessment,Karen Wright,2024-08-01,2024-09-04,34,17010.44,21102.9,Completed,Medium,100,1
+Project_1,T0063,Operational Projection,Robert Martin,2024-08-14,2024-10-02,49,18454.12,25093.15,Completed,Low,100,1
+Project_3,T0064,Development Implementation,Sarah Young,2023-08-13,2023-11-23,102,17296.17,17057.33,Completed,High,100,0
+Project_5,T0065,Financial Planning,Elizabeth Clark,2024-02-29,2024-04-10,41,4293.82,4369.71,Cancelled,Medium,17,1
+Project_3,T0066,Innovative Projection,Patricia Taylor,2023-09-04,2023-12-30,117,12858.42,10412.05,In Progress,Low,58,0
+Project_7,T0067,Strategic Integration,David Walker,2024-02-11,2024-05-03,82,6920.17,9579.25,Completed,High,100,1
+Project_8,T0068,Innovative Design,William Brown,2023-03-04,2023-04-13,40,13292.27,13036.94,In Progress,Medium,31,0
+Project_3,T0069,Innovative Review,Michael Davis,2023-11-18,2024-02-24,98,13702.44,14431.96,In Progress,Medium,19,1
+Project_1,T0070,Innovative Optimization,Lisa Green,2023-12-25,2024-03-26,92,14934.01,18185.25,Completed,High,100,1
+Project_1,T0071,Customer Optimization,Joseph Allen,2023-07-06,2023-10-01,87,5149.8,5043.48,Not Started,Medium,0,0
+Project_5,T0072,Collaborative Planning,Joseph Allen,2023-08-19,2023-09-25,37,4528.72,4445.3,On Hold,Low,83,0
+Project_6,T0073,Strategic Assessment,Elizabeth Clark,2024-09-11,2024-12-16,96,4854.56,6285.33,Completed,Medium,100,1
+Project_8,T0074,Innovative Design,Joseph Allen,2023-03-10,2023-03-29,19,16004.31,19157.02,Completed,Medium,100,1
+Project_3,T0075,Analytical Implementation,John Rodriguez,2024-07-19,2024-07-24,5,7882.92,7212.26,Completed,Medium,100,0
+Project_3,T0076,Marketing Analysis,Karen Wright,2023-05-02,2023-08-04,94,17312.83,18840.94,On Hold,Medium,47,1
+Project_6,T0077,Technical Implementation,Susan Hall,2023-02-14,2023-05-16,91,12048.05,16681.45,Completed,High,100,1
+Project_6,T0078,Financial Integration,John Rodriguez,2024-04-10,2024-05-23,43,3488.73,3908.65,Completed,Critical,100,1
+Project_2,T0079,Analytical Evaluation,William Brown,2023-10-29,2023-11-01,3,18583.53,24413.52,In Progress,Low,65,1
+Project_7,T0080,Collaborative Evaluation,John Rodriguez,2024-04-02,2024-05-12,40,6450.23,7559.05,Completed,Medium,100,1
+Project_7,T0081,Operational Implementation,Linda Smith,2023-07-09,2023-07-31,22,13842.32,17771.4,Not Started,Medium,0,1
+Project_6,T0082,Development Assessment,Alex Johnson,2024-01-10,2024-01-23,13,10397.72,10888.47,In Progress,Medium,40,1
+Project_4,T0083,Development Implementation,Michael Davis,2024-06-18,2024-06-22,4,10062.59,12750.89,Completed,High,100,1
+Project_6,T0084,Innovative Implementation,Alex Johnson,2024-10-23,2025-01-10,79,16311.07,13091.74,Completed,High,100,0
+Project_1,T0085,Strategic Optimization,Lisa Green,2024-11-22,2024-11-25,3,4661.74,4341.13,Completed,High,100,0
+Project_3,T0086,Customer Planning,Alex Johnson,2023-12-29,2024-01-26,28,19741.12,20888.76,In Progress,Medium,84,1
+Project_1,T0087,Customer Projection,Karen Wright,2023-12-01,2024-01-27,57,3152.73,2508.43,Completed,High,100,0
+Project_3,T0088,Analytical Integration,Charles Scott,2023-02-19,2023-05-14,84,19918.91,18369.01,In Progress,Medium,33,0
+Project_3,T0089,Development Integration,Elizabeth Clark,2024-09-12,2024-11-23,72,13600.96,19002.18,Not Started,High,0,1
+Project_6,T0090,Operational Optimization,Barbara Hernandez,2023-08-11,2023-10-15,65,9894.38,6944.99,On Hold,High,67,0
+Project_5,T0091,Analytical Design,Elizabeth Clark,2024-09-14,2024-11-23,70,8255.38,7723.92,In Progress,Medium,61,0
+Project_4,T0092,Collaborative Assessment,Linda Smith,2023-09-09,2023-10-26,47,3565.82,3509.74,Completed,Medium,100,0
+Project_2,T0093,Technical Projection,Barbara Hernandez,2024-07-06,2024-07-26,20,17589.97,12840.2,In Progress,High,36,0
+Project_5,T0094,Customer Implementation,William Brown,2024-06-22,2024-08-30,69,7946.43,11111.99,On Hold,High,48,1
+Project_2,T0095,Financial Optimization,Barbara Hernandez,2024-05-11,2024-06-29,49,5482.94,5689.47,On Hold,Medium,23,1
+Project_2,T0096,Marketing Optimization,Robert Martin,2023-04-05,2023-07-09,95,14687.63,11293.86,Completed,Medium,100,0
+Project_1,T0097,Development Analysis,Charles Scott,2023-04-19,2023-05-07,18,18535.22,14002.96,Completed,High,100,0
+Project_7,T0098,Analytical Planning,Elizabeth Clark,2024-10-09,2024-10-13,4,13768.36,11336.58,Completed,Medium,100,0
+Project_3,T0099,Strategic Analysis,Maria Garcia,2024-10-14,2025-01-08,86,12995.45,14578.63,Not Started,Low,0,1
+Project_2,T0100,Collaborative Review,Joseph Allen,2023-10-03,2023-12-06,64,14619.32,10630.04,On Hold,Medium,81,0
+Project_7,T0101,Marketing Implementation,Maria Garcia,2024-07-07,2024-10-04,89,2656.69,2137.83,Completed,Medium,100,0
+Project_8,T0102,Analytical Analysis,Joseph Allen,2023-09-20,2023-11-16,57,8800.31,6748.86,Not Started,Low,0,0
+Project_2,T0103,Strategic Evaluation,Elizabeth Clark,2023-08-19,2023-09-10,22,16879.99,16259.78,Completed,Medium,100,0
+Project_7,T0104,Collaborative Implementation,Barbara Hernandez,2023-07-13,2023-10-24,103,11189.08,13110.73,Completed,High,100,1
+Project_8,T0105,Collaborative Implementation,Charles Scott,2023-11-22,2024-02-16,86,14167.68,14968.53,On Hold,Critical,70,1
+Project_5,T0106,Collaborative Evaluation,Joseph Allen,2024-11-22,2025-01-30,69,10597.6,12562.46,Completed,Medium,100,1
+Project_8,T0107,Operational Projection,Robert Martin,2023-12-26,2024-03-07,72,4589.09,3737.13,In Progress,Medium,49,0
+Project_4,T0108,Marketing Planning,James Lee,2024-01-01,2024-02-25,55,11175.03,13957.63,Completed,Low,100,1
+Project_1,T0109,Collaborative Implementation,David Walker,2024-04-03,2024-07-29,117,6300.16,5421.41,Completed,Medium,100,0
+Project_8,T0110,Analytical Integration,Sarah Young,2023-04-25,2023-06-29,65,10042.92,13532.71,On Hold,High,39,1
+Project_2,T0111,Technical Review,Alex Johnson,2024-03-16,2024-06-22,98,11480.36,11091.93,Completed,Low,100,0
+Project_2,T0112,Operational Review,David Walker,2024-01-19,2024-02-25,37,15508.78,11359.9,In Progress,High,50,0
+Project_3,T0113,Development Assessment,Susan Hall,2024-10-06,2024-12-07,62,18633.96,18135.82,In Progress,Medium,24,0
+Project_3,T0114,Analytical Projection,Maria Garcia,2024-05-03,2024-06-27,55,19773.83,14742.43,Cancelled,Low,48,0
+Project_2,T0115,Strategic Design,John Rodriguez,2023-08-11,2023-11-07,88,16196.23,19530.42,Completed,High,100,1
+Project_6,T0116,Financial Projection,William Brown,2023-10-10,2023-11-19,40,18441.94,15719.92,On Hold,Low,50,0
+Project_3,T0117,Marketing Implementation,Joseph Allen,2023-01-24,2023-05-21,117,2596.26,3158.18,On Hold,Medium,71,1
+Project_7,T0118,Innovative Analysis,Lisa Green,2023-02-07,2023-04-27,79,17329.53,18396.24,Cancelled,Medium,18,1
+Project_2,T0119,Financial Implementation,Lisa Green,2023-03-09,2023-05-06,58,16184.38,18342.39,Completed,Low,100,1
+Project_6,T0120,Collaborative Implementation,Barbara Hernandez,2023-01-10,2023-04-01,81,19224.74,25948.95,On Hold,Medium,74,1
+Project_6,T0121,Financial Analysis,Alex Johnson,2023-03-04,2023-06-21,109,15260.36,14148.71,Completed,High,100,0
+Project_6,T0122,Technical Design,Elizabeth Clark,2023-08-23,2023-09-02,10,9351.08,6840.31,In Progress,Medium,74,0
+Project_1,T0123,Marketing Analysis,Michael Davis,2024-07-01,2024-09-28,89,14389.81,15660.38,In Progress,High,79,1
+Project_1,T0124,Development Planning,Jennifer Lewis,2024-07-19,2024-09-27,70,2092.01,2859.84,Completed,Medium,100,1
+Project_4,T0125,Strategic Design,Barbara Hernandez,2024-05-26,2024-08-24,90,1258.14,1590.99,On Hold,Medium,40,1
+Project_5,T0126,Marketing Integration,Jennifer Lewis,2024-09-06,2024-12-12,97,2369.42,3156.67,In Progress,Medium,87,1
+Project_7,T0127,Collaborative Implementation,Thomas King,2023-02-15,2023-02-27,12,15720.41,18923.86,Completed,Medium,100,1
+Project_3,T0128,Collaborative Evaluation,Jennifer Lewis,2023-10-02,2023-12-15,74,14856.32,10742.78,Completed,Low,100,0
+Project_6,T0129,Technical Evaluation,William Brown,2023-08-05,2023-11-18,105,18670.32,22664.37,Completed,Medium,100,1
+Project_8,T0130,Innovative Integration,Karen Wright,2023-01-03,2023-03-17,73,15419.07,13631.37,Not Started,Medium,0,0
+Project_8,T0131,Analytical Analysis,Charles Scott,2024-07-18,2024-08-02,15,19780.07,15817.35,In Progress,Medium,47,0
+Project_2,T0132,Collaborative Planning,Patricia Taylor,2024-04-08,2024-07-16,99,1869.96,1315.97,In Progress,Medium,31,0
+Project_5,T0133,Strategic Evaluation,Barbara Hernandez,2024-09-13,2025-01-05,114,9329.23,9975.98,Not Started,High,0,1
+Project_2,T0134,Customer Optimization,Joseph Allen,2024-05-26,2024-06-15,20,3234.29,2792.98,Completed,High,100,0
+Project_4,T0135,Innovative Design,William Brown,2024-11-09,2025-02-22,105,16802.63,17574.2,Completed,Critical,100,1
+Project_6,T0136,Marketing Design,Charles Scott,2023-08-25,2023-10-25,61,6485.83,7512.81,In Progress,Medium,83,1
+Project_4,T0137,Innovative Review,Sarah Young,2023-09-17,2023-10-29,42,18202.65,25064.02,Completed,Medium,100,1
+Project_4,T0138,Technical Implementation,Alex Johnson,2024-03-06,2024-03-25,19,10553.9,13617.46,Completed,Medium,100,1
+Project_8,T0139,Financial Projection,Patricia Taylor,2023-01-12,2023-04-11,89,14331.05,20002.24,Completed,Medium,100,1
+Project_1,T0140,Analytical Assessment,Elizabeth Clark,2023-04-10,2023-06-22,73,18476.93,18657.79,Not Started,High,0,1
+Project_6,T0141,Innovative Optimization,Linda Smith,2024-03-20,2024-04-30,41,15297.81,19416.0,Completed,Low,100,1
+Project_3,T0142,Financial Projection,Patricia Taylor,2024-07-31,2024-11-25,117,18016.62,22319.84,In Progress,Critical,70,1
+Project_6,T0143,Development Review,Linda Smith,2023-07-10,2023-07-22,12,14959.15,20173.03,Completed,Medium,100,1
+Project_6,T0144,Development Evaluation,Jennifer Lewis,2024-08-22,2024-09-01,10,3462.72,2481.23,Completed,Medium,100,0
+Project_4,T0145,Strategic Optimization,Patricia Taylor,2024-01-05,2024-05-03,119,13013.88,13580.76,Completed,Low,100,1
+Project_7,T0146,Analytical Implementation,Jennifer Lewis,2024-09-14,2024-10-03,19,18682.38,25139.31,In Progress,Medium,47,1
+Project_2,T0147,Customer Projection,Susan Hall,2023-07-27,2023-09-23,58,5280.01,3806.04,Completed,Medium,100,0
+Project_8,T0148,Technical Design,David Walker,2024-02-22,2024-03-23,30,16900.53,14894.19,In Progress,High,90,0
+Project_1,T0149,Collaborative Optimization,Jennifer Lewis,2024-11-26,2025-03-12,106,11667.88,12078.36,Completed,High,100,1
+Project_3,T0150,Innovative Optimization,Susan Hall,2024-10-16,2024-11-29,44,19310.78,16709.92,Not Started,Medium,0,0
+Project_4,T0151,Marketing Review,Karen Wright,2023-07-07,2023-11-01,117,4897.28,5935.35,Completed,Low,100,1
+Project_2,T0152,Technical Optimization,Charles Scott,2023-11-10,2023-12-10,30,7751.92,8829.84,Completed,Low,100,1
+Project_8,T0153,Marketing Evaluation,Alex Johnson,2023-06-23,2023-10-14,113,16859.16,17127.34,Cancelled,Medium,49,1
+Project_3,T0154,Technical Review,David Walker,2023-04-12,2023-07-26,105,14509.98,12217.43,In Progress,Medium,86,0
+Project_6,T0155,Customer Review,Patricia Taylor,2024-10-26,2024-10-29,3,9379.58,9873.75,On Hold,Medium,55,1
+Project_5,T0156,Strategic Optimization,Karen Wright,2024-06-02,2024-07-21,49,8856.81,9256.01,Completed,High,100,1
+Project_7,T0157,Operational Analysis,Michael Davis,2023-06-07,2023-06-22,15,18876.78,16032.16,Cancelled,Medium,23,0
+Project_6,T0158,Operational Evaluation,James Lee,2023-03-30,2023-07-22,114,5123.39,5344.78,Completed,Medium,100,1
+Project_6,T0159,Analytical Optimization,Charles Scott,2024-03-22,2024-05-28,67,2296.01,2960.88,In Progress,Low,78,1
+Project_6,T0160,Technical Design,Joseph Allen,2024-06-28,2024-07-11,13,3969.32,5353.1,Cancelled,Medium,11,1
+Project_4,T0161,Collaborative Evaluation,Susan Hall,2024-05-05,2024-06-20,46,18838.79,20200.92,Completed,Medium,100,1
+Project_1,T0162,Marketing Implementation,Charles Scott,2024-01-18,2024-04-28,101,11116.33,8838.59,Not Started,Medium,0,0
+Project_4,T0163,Collaborative Implementation,Michael Davis,2023-09-28,2023-11-03,36,18454.62,15157.81,In Progress,Medium,81,0
+Project_8,T0164,Collaborative Assessment,Maria Garcia,2024-06-03,2024-07-19,46,2383.24,2472.48,Completed,Low,100,1
+Project_4,T0165,Development Optimization,Thomas King,2023-04-25,2023-06-06,42,12732.15,16696.94,In Progress,Medium,55,1
+Project_8,T0166,Technical Evaluation,Michael Davis,2023-11-11,2024-02-12,93,13341.27,14697.27,On Hold,Critical,84,1
+Project_3,T0167,Analytical Integration,Karen Wright,2023-08-09,2023-10-25,77,1921.24,1502.57,Completed,Medium,100,0
+Project_5,T0168,Innovative Planning,Michael Davis,2023-08-04,2023-10-03,60,1518.68,1541.0,Completed,Low,100,1
+Project_3,T0169,Operational Assessment,Lisa Green,2023-06-29,2023-08-27,59,13142.82,14190.16,Not Started,Low,0,1
+Project_7,T0170,Development Implementation,Michael Davis,2023-08-01,2023-09-25,55,13113.93,12884.93,Completed,Medium,100,0
+Project_5,T0171,Operational Evaluation,Thomas King,2023-04-17,2023-07-03,77,17643.8,15105.78,In Progress,Critical,76,0
+Project_8,T0172,Marketing Integration,Maria Garcia,2024-06-12,2024-07-24,42,2194.05,2550.08,Completed,Medium,100,1
+Project_5,T0173,Collaborative Projection,Thomas King,2023-04-21,2023-06-23,63,5727.3,6643.47,In Progress,Low,81,1
+Project_6,T0174,Strategic Evaluation,James Lee,2023-07-13,2023-07-19,6,7659.83,9989.63,In Progress,Medium,46,1
+Project_3,T0175,Innovative Projection,Lisa Green,2024-05-26,2024-07-21,56,4238.37,4515.92,Cancelled,Medium,11,1
+Project_3,T0176,Strategic Design,Charles Scott,2023-02-26,2023-03-21,23,1885.14,1685.33,Completed,High,100,0
+Project_6,T0177,Development Analysis,Barbara Hernandez,2024-07-14,2024-07-22,8,16611.73,20495.87,In Progress,High,45,1
+Project_8,T0178,Analytical Assessment,John Rodriguez,2024-11-26,2024-12-14,18,11537.16,9965.2,Not Started,Low,0,0
+Project_8,T0179,Innovative Analysis,Robert Martin,2023-04-23,2023-07-03,71,17476.71,13442.16,In Progress,Low,30,0
+Project_7,T0180,Technical Integration,Thomas King,2024-03-17,2024-06-28,103,5062.31,5259.45,In Progress,Medium,83,1
+Project_8,T0181,Analytical Design,Lisa Green,2024-08-26,2024-12-19,115,4212.14,4435.79,Not Started,High,0,1
+Project_5,T0182,Customer Projection,David Walker,2023-09-16,2023-11-28,73,4158.7,4512.76,On Hold,Medium,12,1
+Project_4,T0183,Financial Analysis,James Lee,2024-03-09,2024-05-05,57,2700.69,2019.09,On Hold,Medium,33,0
+Project_4,T0184,Financial Assessment,Charles Scott,2024-09-29,2024-11-14,46,2289.82,1793.63,Cancelled,Medium,3,0
+Project_4,T0185,Marketing Planning,Michael Davis,2023-08-09,2023-08-20,11,3366.73,3819.48,On Hold,High,76,1
+Project_3,T0186,Marketing Analysis,Robert Martin,2024-08-25,2024-10-18,54,14810.61,11501.83,Completed,Medium,100,0
+Project_1,T0187,Strategic Design,Linda Smith,2023-03-10,2023-04-09,30,5444.95,5894.87,In Progress,High,61,1
+Project_7,T0188,Operational Analysis,Charles Scott,2024-11-07,2024-11-12,5,5573.87,5831.33,In Progress,High,12,1
+Project_2,T0189,Marketing Planning,David Walker,2024-08-02,2024-08-16,14,18766.21,25856.82,Not Started,High,0,1
+Project_8,T0190,Financial Analysis,Charles Scott,2023-06-04,2023-07-02,28,19194.96,16681.7,Completed,Medium,100,0
+Project_2,T0191,Analytical Integration,James Lee,2023-04-21,2023-05-07,16,19526.59,19380.85,Completed,High,100,0
+Project_7,T0192,Operational Assessment,Alex Johnson,2024-03-04,2024-03-30,26,15643.91,20748.0,Completed,Medium,100,1
+Project_2,T0193,Operational Projection,Patricia Taylor,2023-06-15,2023-07-31,46,4562.62,5475.39,In Progress,Low,13,1
+Project_3,T0194,Operational Design,Alex Johnson,2024-01-15,2024-04-24,100,9682.2,7433.1,Completed,Medium,100,0
+Project_3,T0195,Collaborative Projection,Thomas King,2023-06-07,2023-07-03,26,15583.59,14170.42,On Hold,Critical,72,0
+Project_7,T0196,Strategic Assessment,John Rodriguez,2024-01-23,2024-04-29,97,12797.98,17554.36,On Hold,Medium,12,1
+Project_5,T0197,Customer Review,Robert Martin,2023-07-02,2023-10-20,110,15873.08,13188.21,Completed,Medium,100,0
+Project_4,T0198,Marketing Assessment,Susan Hall,2024-10-23,2024-12-15,53,19624.99,27372.56,In Progress,Low,90,1
+Project_2,T0199,Technical Integration,David Walker,2024-08-19,2024-09-15,27,2989.15,3857.3,In Progress,High,76,1
+Project_3,T0200,Financial Assessment,Robert Martin,2024-02-21,2024-03-10,18,11991.25,11774.09,In Progress,Low,64,0
+Project_5,T0201,Collaborative Implementation,Michael Davis,2023-10-17,2024-01-06,81,14078.91,19393.06,In Progress,Critical,51,1
+Project_8,T0202,Financial Optimization,Thomas King,2024-03-21,2024-06-16,87,7014.6,9553.17,Completed,Medium,100,1
+Project_7,T0203,Financial Planning,Charles Scott,2023-12-09,2024-03-02,84,19189.12,23583.74,Cancelled,Medium,24,1
+Project_3,T0204,Financial Analysis,Barbara Hernandez,2023-10-08,2024-01-09,93,12764.8,9529.23,Completed,Medium,100,0
+Project_4,T0205,Analytical Evaluation,Thomas King,2024-03-25,2024-05-27,63,19858.62,26883.89,Cancelled,High,40,1
+Project_7,T0206,Operational Evaluation,Maria Garcia,2023-09-20,2023-12-17,88,12021.94,11632.72,Completed,Low,100,0
+Project_7,T0207,Technical Integration,Lisa Green,2024-07-21,2024-10-30,101,15766.65,13506.79,Completed,High,100,0
+Project_8,T0208,Customer Review,Karen Wright,2023-02-27,2023-05-28,90,3160.75,2638.08,Completed,High,100,0
+Project_1,T0209,Technical Analysis,Linda Smith,2023-07-27,2023-09-15,50,9531.53,11676.7,Completed,Medium,100,1
+Project_3,T0210,Analytical Review,Susan Hall,2024-01-12,2024-04-24,103,6912.66,6620.76,Cancelled,Critical,24,0
+Project_2,T0211,Technical Design,Joseph Allen,2023-11-19,2023-11-30,11,13721.28,11379.41,Completed,Medium,100,0
+Project_8,T0212,Collaborative Evaluation,Sarah Young,2023-06-18,2023-07-05,17,18725.66,24697.79,Completed,High,100,1
+Project_6,T0213,Technical Design,Charles Scott,2023-07-04,2023-07-08,4,5638.68,4629.46,On Hold,Medium,59,0
+Project_1,T0214,Financial Integration,Joseph Allen,2024-01-18,2024-02-05,18,8671.88,9566.74,Completed,High,100,1
+Project_3,T0215,Customer Planning,Joseph Allen,2023-09-30,2023-11-23,54,12985.9,11837.03,Completed,High,100,0
+Project_6,T0216,Analytical Assessment,William Brown,2023-10-07,2023-12-24,78,16016.01,17592.39,Completed,Medium,100,1
+Project_1,T0217,Financial Review,Barbara Hernandez,2023-07-28,2023-11-02,97,15143.98,20760.36,In Progress,Medium,90,1
+Project_5,T0218,Collaborative Assessment,Alex Johnson,2023-03-12,2023-06-18,98,12168.57,9821.83,In Progress,Medium,65,0
+Project_7,T0219,Technical Implementation,John Rodriguez,2024-01-13,2024-02-27,45,6763.65,8796.78,In Progress,Medium,17,1
+Project_4,T0220,Marketing Evaluation,Karen Wright,2023-07-05,2023-07-27,22,1167.64,1050.88,On Hold,Critical,31,0
+Project_5,T0221,Analytical Design,Susan Hall,2024-08-09,2024-08-18,9,15513.58,16408.1,In Progress,High,20,1
+Project_5,T0222,Marketing Optimization,Jennifer Lewis,2024-04-02,2024-07-27,116,1901.59,2341.63,In Progress,Medium,41,1
+Project_6,T0223,Operational Analysis,Maria Garcia,2024-01-02,2024-01-07,5,8684.7,9943.07,Completed,Medium,100,1
+Project_2,T0224,Operational Design,David Walker,2023-12-22,2024-04-19,119,11170.41,14706.29,Completed,High,100,1
+Project_5,T0225,Technical Optimization,Patricia Taylor,2024-07-28,2024-11-24,119,14357.05,18080.49,In Progress,High,75,1
+Project_2,T0226,Strategic Design,Karen Wright,2023-01-10,2023-01-24,14,13650.71,11284.03,Not Started,High,0,0
+Project_2,T0227,Technical Assessment,John Rodriguez,2023-04-18,2023-05-28,40,6077.58,7894.6,Completed,Critical,100,1
+Project_8,T0228,Technical Projection,Linda Smith,2024-05-17,2024-08-21,96,3546.53,3954.05,Not Started,Medium,0,1
+Project_4,T0229,Development Assessment,Michael Davis,2023-12-18,2024-01-27,40,10204.28,13562.42,In Progress,High,28,1
+Project_2,T0230,Strategic Planning,John Rodriguez,2023-07-22,2023-09-03,43,12539.81,9024.03,Completed,Critical,100,0
+Project_4,T0231,Technical Evaluation,Linda Smith,2023-12-09,2023-12-21,12,18544.65,22793.31,In Progress,Medium,42,1
+Project_3,T0232,Financial Projection,John Rodriguez,2023-03-02,2023-04-12,41,7800.37,8169.57,Completed,Low,100,1
+Project_3,T0233,Innovative Review,Barbara Hernandez,2024-10-29,2024-12-26,58,1858.66,1721.94,Completed,Low,100,0
+Project_4,T0234,Development Design,Jennifer Lewis,2023-09-14,2023-12-25,102,1891.51,1352.12,Completed,Medium,100,0
+Project_7,T0235,Collaborative Optimization,Michael Davis,2024-10-07,2024-11-17,41,11284.44,10126.11,In Progress,Low,50,0
+Project_6,T0236,Development Analysis,Linda Smith,2023-05-13,2023-06-01,19,5722.39,6894.23,On Hold,Low,12,1
+Project_3,T0237,Analytical Review,Alex Johnson,2023-08-01,2023-10-21,81,14100.79,17003.74,Completed,Low,100,1
+Project_7,T0238,Analytical Optimization,Susan Hall,2024-07-26,2024-09-17,53,6831.41,6091.14,Completed,High,100,0
+Project_3,T0239,Strategic Integration,William Brown,2024-02-12,2024-02-22,10,17216.41,12192.06,In Progress,Medium,83,0
+Project_5,T0240,Customer Evaluation,Joseph Allen,2023-04-30,2023-05-22,22,16983.43,18048.97,In Progress,Low,39,1
+Project_1,T0241,Development Assessment,Susan Hall,2023-01-27,2023-05-09,102,9151.38,7849.22,In Progress,High,42,0
+Project_7,T0242,Development Integration,Linda Smith,2024-09-07,2024-12-20,104,2008.14,2097.48,Not Started,Medium,0,1
+Project_5,T0243,Collaborative Planning,Karen Wright,2023-06-01,2023-09-02,93,10891.31,9564.22,On Hold,High,89,0
+Project_1,T0244,Customer Design,David Walker,2023-09-21,2024-01-13,114,10397.67,11780.78,In Progress,Low,42,1
+Project_8,T0245,Strategic Evaluation,Lisa Green,2023-03-27,2023-07-08,103,13751.27,16786.52,Completed,Medium,100,1
+Project_1,T0246,Strategic Integration,William Brown,2024-09-05,2024-09-28,23,14611.46,19274.51,In Progress,High,74,1
+Project_6,T0247,Collaborative Assessment,Alex Johnson,2023-07-01,2023-09-16,77,10703.69,8321.74,Completed,High,100,0
+Project_5,T0248,Collaborative Projection,Sarah Young,2024-06-11,2024-10-07,118,13334.92,12245.06,Cancelled,Medium,34,0
+Project_7,T0249,Marketing Planning,Maria Garcia,2023-11-07,2024-03-03,117,2219.18,1636.77,Completed,Low,100,0
+Project_4,T0250,Development Projection,Linda Smith,2024-09-28,2024-10-20,22,9698.66,11878.21,Completed,High,100,1
+Project_6,T0251,Operational Review,Charles Scott,2024-02-11,2024-03-27,45,5699.92,7503.61,In Progress,High,59,1
+Project_6,T0252,Collaborative Implementation,Michael Davis,2024-07-05,2024-08-09,35,2593.76,2214.64,Completed,Low,100,0
+Project_5,T0253,Customer Optimization,Jennifer Lewis,2024-04-22,2024-07-02,71,4716.31,6186.15,Completed,Medium,100,1
+Project_4,T0254,Technical Assessment,Joseph Allen,2023-05-16,2023-07-21,66,19689.72,26370.9,Completed,Medium,100,1
+Project_3,T0255,Marketing Planning,Elizabeth Clark,2023-12-10,2023-12-23,13,8217.64,11005.43,Completed,Medium,100,1
+Project_4,T0256,Marketing Optimization,Charles Scott,2023-07-16,2023-08-16,31,12907.82,16396.12,Completed,Low,100,1
+Project_3,T0257,Collaborative Implementation,Michael Davis,2023-09-27,2023-12-08,72,6739.79,7660.38,In Progress,Medium,88,1
+Project_5,T0258,Marketing Projection,Patricia Taylor,2024-08-29,2024-11-10,73,18677.56,17906.71,Completed,Critical,100,0
+Project_4,T0259,Marketing Optimization,Linda Smith,2024-03-25,2024-07-11,108,17725.21,23520.7,Cancelled,Low,28,1
+Project_4,T0260,Financial Design,Elizabeth Clark,2024-07-11,2024-08-20,40,4849.96,5414.22,Completed,Low,100,1
+Project_2,T0261,Technical Assessment,Robert Martin,2023-11-11,2023-12-17,36,10700.85,12093.59,On Hold,Medium,55,1
+Project_1,T0262,Collaborative Design,Lisa Green,2023-08-08,2023-12-01,115,9495.06,11908.09,Completed,Medium,100,1
+Project_7,T0263,Financial Planning,Jennifer Lewis,2023-07-04,2023-10-30,118,11377.19,11371.9,In Progress,High,69,0
+Project_1,T0264,Customer Assessment,Michael Davis,2023-03-12,2023-07-08,118,4350.2,4777.89,In Progress,High,47,1
+Project_3,T0265,Technical Optimization,Robert Martin,2023-05-06,2023-07-09,64,9244.61,11218.92,Completed,Low,100,1
+Project_7,T0266,Strategic Integration,Karen Wright,2023-01-05,2023-01-08,3,18107.06,16015.02,Completed,Medium,100,0
+Project_1,T0267,Development Review,Sarah Young,2023-01-22,2023-02-07,16,8564.4,6543.81,In Progress,Low,19,0
+Project_7,T0268,Marketing Review,Linda Smith,2024-11-21,2025-01-05,45,17885.77,13537.16,On Hold,Low,68,0
+Project_2,T0269,Operational Projection,Linda Smith,2023-09-18,2023-12-29,102,17119.96,22814.21,On Hold,High,64,1
+Project_4,T0270,Analytical Design,David Walker,2023-09-08,2023-11-03,56,7775.11,9987.72,Completed,High,100,1
+Project_1,T0271,Innovative Evaluation,William Brown,2023-11-29,2023-12-08,9,9879.4,8007.96,Cancelled,Medium,0,0
+Project_2,T0272,Strategic Integration,Charles Scott,2024-09-01,2024-11-21,81,19622.78,22665.74,In Progress,High,90,1
+Project_4,T0273,Development Planning,Susan Hall,2024-05-20,2024-08-07,79,4251.28,5425.69,In Progress,Medium,58,1
+Project_7,T0274,Financial Design,Susan Hall,2024-05-24,2024-08-11,79,12024.37,11989.97,Completed,High,100,0
+Project_3,T0275,Innovative Review,Alex Johnson,2023-07-09,2023-07-30,21,6404.81,8374.56,Cancelled,High,45,1
+Project_2,T0276,Strategic Assessment,Maria Garcia,2024-06-01,2024-09-21,112,13086.36,15743.52,Completed,High,100,1
+Project_6,T0277,Customer Implementation,Jennifer Lewis,2024-10-01,2024-12-14,74,4722.8,3918.26,Completed,Medium,100,0
+Project_1,T0278,Development Projection,Sarah Young,2024-07-17,2024-11-10,116,2917.44,3905.49,In Progress,Medium,49,1
+Project_5,T0279,Innovative Review,Linda Smith,2024-03-21,2024-06-28,99,13920.12,14064.99,Not Started,High,0,1
+Project_4,T0280,Technical Analysis,Charles Scott,2023-04-02,2023-05-05,33,16920.42,17632.31,Completed,Medium,100,1
+Project_7,T0281,Marketing Analysis,Charles Scott,2023-10-23,2024-01-15,84,17894.52,14742.66,In Progress,Low,36,0
+Project_7,T0282,Development Projection,Michael Davis,2024-06-01,2024-08-07,67,18786.25,25505.77,Completed,Medium,100,1
+Project_2,T0283,Strategic Integration,Alex Johnson,2023-05-19,2023-06-29,41,4094.21,2915.49,In Progress,Critical,21,0
+Project_1,T0284,Customer Analysis,William Brown,2023-10-22,2023-10-30,8,16256.95,18004.21,Completed,Medium,100,1
+Project_8,T0285,Strategic Optimization,Michael Davis,2023-11-16,2024-01-07,52,5505.06,4355.08,In Progress,Medium,26,0
+Project_4,T0286,Marketing Integration,William Brown,2023-12-27,2024-03-08,72,3691.62,2650.06,In Progress,Low,82,0
+Project_3,T0287,Financial Implementation,Susan Hall,2023-07-25,2023-09-17,54,14329.35,17870.15,Not Started,Medium,0,1
+Project_4,T0288,Analytical Projection,William Brown,2024-06-01,2024-07-11,40,6217.73,5613.09,Completed,Medium,100,0
+Project_4,T0289,Marketing Planning,Maria Garcia,2024-06-15,2024-08-14,60,14160.11,16926.09,Completed,Medium,100,1
+Project_6,T0290,Financial Design,Barbara Hernandez,2023-05-17,2023-06-23,37,15701.25,16518.5,Not Started,Medium,0,1
+Project_8,T0291,Collaborative Evaluation,Karen Wright,2023-05-26,2023-09-08,105,8422.37,7151.65,Completed,Medium,100,0
+Project_7,T0292,Analytical Optimization,Sarah Young,2023-09-26,2023-10-29,33,5385.6,5439.14,On Hold,Medium,40,1
+Project_8,T0293,Marketing Integration,Linda Smith,2023-04-06,2023-07-25,110,16124.31,14886.18,Not Started,High,0,0
+Project_3,T0294,Analytical Implementation,Elizabeth Clark,2024-06-28,2024-07-19,21,5233.78,6185.04,Completed,Medium,100,1
+Project_6,T0295,Customer Projection,Alex Johnson,2023-02-10,2023-06-05,115,19748.26,13902.4,Not Started,Medium,0,0
+Project_5,T0296,Financial Design,Elizabeth Clark,2023-02-06,2023-03-17,39,10543.31,9570.28,In Progress,Medium,48,0
+Project_8,T0297,Technical Optimization,David Walker,2023-12-13,2024-04-10,119,4902.28,6608.79,Not Started,High,0,1
+Project_2,T0298,Customer Design,Joseph Allen,2023-09-02,2023-10-06,34,11914.05,14369.7,Completed,Medium,100,1
+Project_3,T0299,Customer Evaluation,Patricia Taylor,2023-08-30,2023-09-06,7,2889.97,4037.96,On Hold,Medium,49,1
+Project_5,T0300,Innovative Implementation,Patricia Taylor,2023-08-07,2023-09-13,37,6016.51,5571.71,In Progress,Medium,46,0
